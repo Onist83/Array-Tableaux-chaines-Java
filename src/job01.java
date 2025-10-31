@@ -1,7 +1,6 @@
 public class job01 {
     public static void main(String[] args) {
 
-//Façon 1
         int somme=0;
         int[] numbs = {41,358,74,1,6,32};
 
@@ -24,10 +23,10 @@ public class job01 {
             System.out.println("Number impair");
 */
 
-        String[] arrayOfStrings = {"200", "204", "173", "98", "171", "404", "459"};
-        for (int i = 0; i < arrayOfStrings.length; i++) {
-            System.out.print(arrayOfStrings[i] + " ");
-            if (i % 2 == 0) {
+        int[] number = {200, 204, 173, 98, 171, 404, 459};
+        for (int i = 0; i < number.length; i++) {
+            System.out.print(number[i] + " ");
+            if (number [i] % 2 == 0) {
                 System.out.println("Number pair");
             } else  {
                 System.out.println("Number impair");
