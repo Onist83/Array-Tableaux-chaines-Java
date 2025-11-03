@@ -25,7 +25,7 @@ public class job05 {
             System.out.println("Le nombre de voyelles est: " + i);
 
 
-            //code pour les consonnes
+            //code pour les consonnes en exo
  //if (i !=a) && (i !=b) && (i != []voyelles) {
             //i++;
             // }System.out.println("Le nombre de consonnes est: " + i)
@@ -45,4 +45,6 @@ public class job05 {
         }
     }
 }
-/* Correction
+/* Correction faite prise de capture d'écran
+pour la correction
+ */
